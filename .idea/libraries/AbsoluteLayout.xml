@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="AbsoluteLayout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/DatePicker-V0.99-2006.09.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/Jama-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/JPlaceHolder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/material-ui-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/mysql-connector-java-5.1.44-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/NefAnimacion_V2.1_jdk18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/swingx-core-1.6.2-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/timingframework-core-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/timingframework-swing-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/DatePicker-V0.99-2006.09.01.jar!/" />
+    </SOURCES>
+  </library>
+</component>

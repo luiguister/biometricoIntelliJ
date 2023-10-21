@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dpotapi">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Checador-master/ControlAsistencia/lib/dpotapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

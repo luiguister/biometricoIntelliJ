@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dpotjni">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Checador-master/ControlAsistencia/dist/lib/dpotjni.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

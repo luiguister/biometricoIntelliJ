@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="datetime">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/datetime.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Control-de-asistencia-biometrico/lib/datetime.jar" recursive="false" />
+  </library>
+</component>
